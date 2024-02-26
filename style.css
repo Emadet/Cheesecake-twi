@@ -407,4 +407,12 @@ header button {
   .bite .intro p {
     font-size: 1rem;
   }
+  .about h2 {
+    font-size: 3rem;
+    padding-top: 2rem;
+  }
+  .about p {
+    font-size: 1rem;
+    padding: 1rem;
+  }
 }
